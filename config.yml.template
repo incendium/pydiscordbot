@@ -1,0 +1,14 @@
+# Copy this file to config.yml.
+
+# Replace this with your twitch username prefixed by #.
+channel: "#twitch username"
+
+# Replace this with your twitch bot's username.
+nickname: "twitch bot username"
+
+# Replace this with an OAuth token. You can grab this from: http://www.twitchapps.com/tmi
+password: "oauth:token"
+
+# Do not change these values unless you know what you are doing.
+server: irc.twitch.tv
+port: 6667
